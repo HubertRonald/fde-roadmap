@@ -1,0 +1,80 @@
+version: 1
+project:
+  name: fde-roadmap
+  title: "Forward Deployed Engineer Roadmap"
+  editorial_descriptor: "An independent visual field guide to Forward Deployed Engineering."
+  canonical_url: https://github.com/HubertRonald/fde-roadmap
+  release_status: draft
+  draft_version: 0.1.0
+  provenance_review_date: 2026-09-01
+
+provenance_model:
+  source_corpus: "Ideas, topic coverage, role framing, and learning themes drawn from the primary references."
+  editorial_synthesis: "How this guide reconciles, qualifies, and reorganizes source themes into a vendor-neutral field guide."
+  original_presentation: "Prose, editorial organization, diagram concepts, human-directed visual composition, annotations, and final curated visual artifacts specific to this guide where not otherwise attributed; no exclusive authorship claim is made over raw AI-generated material."
+
+
+visual_production:
+  status: transition_pending_final_image_integration
+  method: ai_assisted_image_generation
+  provider: OpenAI
+  human_direction: Hubert Ronald
+  conceptual_sources:
+    - R
+    - T
+    - A
+  current_asset_status: temporary_placeholders_from_prior_visual_pass
+  note: "OpenAI is used as a visual-production tool only. It is not part of the FDE primary source corpus and does not supply the conceptual claims represented in the diagrams."
+
+primary_sources:
+  - id: R
+    title: "roadmap.sh — Forward Deployed Engineer"
+    url: https://roadmap.sh/forward-deployed-engineer
+    source_type: dynamic_web_roadmap
+    accessed_date: 2026-09-01
+    branch: null
+    commit_sha: null
+    license: null
+    reuse_status: restricted_web_content
+    rights_note: "No open-source reuse license is assumed. The roadmap.sh About page states that website content may not be redistributed. This guide links to the roadmap and independently synthesizes themes rather than reproducing its content."
+    rights_reference: https://roadmap.sh/about/
+    version_note: "The roadmap.sh reference is a living resource. This synthesis reflects the version reviewed on the access date above."
+
+  - id: T
+    title: "thecoder8890 — forward-deployed-engineer-roadmap"
+    repository: https://github.com/thecoder8890/forward-deployed-engineer-roadmap
+    source_type: git_repository
+    branch: main
+    commit_sha: 9623f4c6bdd84e6778598808d49a2057822df735
+    commit_url: https://github.com/thecoder8890/forward-deployed-engineer-roadmap/tree/9623f4c6bdd84e6778598808d49a2057822df735
+    accessed_date: 2026-09-01
+    license: "ZERO PUBLIC LICENSE v1.0 (March 2026)"
+    spdx_id: null
+    license_classification: custom_permissive_non_spdx
+    license_url: https://github.com/thecoder8890/forward-deployed-engineer-roadmap/blob/9623f4c6bdd84e6778598808d49a2057822df735/LICENSE
+
+  - id: A
+    title: "pierpaolo28 — Awesome-FDE-Roadmap"
+    repository: https://github.com/pierpaolo28/Awesome-FDE-Roadmap
+    source_type: git_repository
+    branch: main
+    commit_sha: 5a08410dc9b23f882b6d162976b602ad5b9e224e
+    commit_url: https://github.com/pierpaolo28/Awesome-FDE-Roadmap/tree/5a08410dc9b23f882b6d162976b602ad5b9e224e
+    accessed_date: 2026-09-01
+    license: MIT
+    spdx_id: MIT
+    license_classification: standard_open_source
+    license_url: https://github.com/pierpaolo28/Awesome-FDE-Roadmap/blob/5a08410dc9b23f882b6d162976b602ad5b9e224e/LICENSE
+
+project_license:
+  license: CC-BY-4.0
+  applies_to:
+    - original_prose_authored_for_this_repository
+    - final_curated_diagrams_and_human_directed_visual_composition_to_extent_applicable_rights_exist
+    - original_editorial_annotations
+  excludes:
+    - third_party_repository_content
+    - linked_website_content
+    - trademarks_and_external_assets
+    - underlying_ideas_and_concepts_as_property_claims
+  note: "Source concepts are attributed to the primary references. The project license covers applicable rights in original project expression and final curated visual presentation, and does not relicense the source corpus or claim exclusive authorship of raw AI-generated material."
