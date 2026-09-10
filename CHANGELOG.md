@@ -8,16 +8,16 @@ The repository has **not been publicly released yet**, so the current work remai
 
 ### Added
 
-- Visual-system remediation across all seven FDE diagrams plus a contact-sheet QA artifact.
+- Visual-system remediation across all seven current placeholder FDE diagrams.
 
 - Initial repository structure and curated field-guide README.
 - Citation and contribution guidance.
 - CC BY 4.0 licensing for original project expression.
-- Six original explanatory diagrams.
+- Six initial explanatory diagram placeholders.
 - Canonical eight-stage FDE roadmap.
 - `SOURCES.yml` with source types, Git commit snapshots, access dates, and source-license metadata.
-- `docs/source-map.md` with section-level provenance mapping.
-- Seventh visual: `fde-roadmap-stages.png`.
+- `docs/sources-and-provenance.md` with section-level provenance mapping.
+- Seventh placeholder visual: `fde-roadmap-stages.png`.
 
 ### Changed
 
@@ -29,12 +29,11 @@ The repository has **not been publicly released yet**, so the current work remai
 - Replaced the role-comparison dot scale with qualitative `Core / Common / Variable / Occasional` labels.
 - Added provenance footers to every diagram.
 - Set the canonical future repository identity to `fde-roadmap` at `https://github.com/HubertRonald/fde-roadmap`, while retaining the field-guide framing as the editorial descriptor.
-- Reworked all seven diagrams into a cool technical-architecture visual grammar with system boundaries, line icons, semantic connectors, and non-green badge/figure accents.
+- Reworked all seven placeholder diagrams into a cool technical-architecture visual grammar with system boundaries, line icons, semantic connectors, and non-green badge/figure accents.
 - Transitioned the final visual-production plan from a script-based placeholder workflow to human-directed AI-assisted diagram generation.
 - Documented OpenAI image generation as the planned production tool for the final v0.1.0 visual artifacts while keeping it outside the FDE source corpus.
 - Clarified the boundary between conceptual source provenance, human direction/curation, and AI-assisted visual production.
 - Added Product Credit and a transparent pre-image-integration status note.
-- Added seven standalone final-image prompts in `docs/image-generation-prompts.md`.
 - Replaced marker-based tradeoff sliders with non-scored decision axes and upgraded the role matrix to a fully qualitative architecture-style table.
 
 ### Corrected

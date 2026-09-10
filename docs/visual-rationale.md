@@ -238,7 +238,6 @@ Target working dimensions:
 
 - most diagrams: approximately `1600 × 900`;
 - role comparison matrix: approximately `1600 × 1040` where the extra vertical space improves legibility;
-- contact sheet: larger documentation-only composite.
 
 Final production PNGs should be lossless or visually lossless and should avoid oversized files without visual benefit.
 
@@ -270,24 +269,6 @@ The final system should preserve:
 - restrained caption density;
 - readable core labels at README scale;
 - no dependence on decorative icon detail for comprehension.
-
-## Contact sheet
-
-The current file:
-
-[`fde-visual-system-contact-sheet.png`](fde-visual-system-contact-sheet.png)
-
-is a **pre-integration QA artifact for the placeholder family**. It remains useful for checking palette, density, title consistency, and diagram diversity during the transition.
-
-After the seven final AI-assisted PNGs are approved and integrated, the contact sheet should be refreshed so it represents the actual production family.
-
-## Image-generation handoff
-
-The seven standalone production prompts are maintained in:
-
-[`image-generation-prompts.md`](image-generation-prompts.md)
-
-Those prompts define the technical meaning, exact labels, visual composition, SparkWork-inspired visual philosophy, palette constraints, README-width legibility, forbidden unsupported content, and required provenance footer for each final diagram.
 
 ## Final visual acceptance gates
 

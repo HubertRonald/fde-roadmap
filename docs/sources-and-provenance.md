@@ -50,7 +50,7 @@ The following three resources are the primary source corpus for v0.1.0. Referenc
 - `accessed`: `2026-09-01`
 - `license`: `MIT`
 
-For the detailed provenance record and section-by-section mapping, see [`SOURCES.yml`](SOURCES.yml) and [`docs/source-map.md`](docs/source-map.md).
+For the detailed provenance record, see [`../SOURCES.yml`](../SOURCES.yml). The section-by-section source mapping is maintained below.
 
 ## Source Map
 

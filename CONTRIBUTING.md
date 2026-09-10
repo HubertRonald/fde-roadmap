@@ -30,7 +30,7 @@ You are welcome to propose changes that:
 
 If a contribution changes the conceptual roadmap or adds a new primary reference:
 
-- update `docs/source-map.md`;
+- update `docs/sources-and-provenance.md`;
 - update `SOURCES.yml` when source metadata changes;
 - use an immutable commit SHA for Git repositories when possible;
 - record an access date for dynamic web sources;

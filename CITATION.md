@@ -52,7 +52,7 @@ The current artifact is a **draft**, not a claim that v0.1.0 has already been pu
 - Repository license at reviewed snapshot: `MIT`
 - SPDX identifier: `MIT`
 
-Machine-readable metadata is maintained in [`SOURCES.yml`](SOURCES.yml). Coverage and treatment are documented in [`docs/source-map.md`](docs/source-map.md).
+Machine-readable metadata is maintained in [`SOURCES.yml`](SOURCES.yml). Coverage and treatment are documented in [Sources & Provenance](docs/sources-and-provenance.md).
 
 ## Attribution boundary
 
