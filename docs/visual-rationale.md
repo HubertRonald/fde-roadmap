@@ -8,13 +8,11 @@ The canonical repository identity is **`fde-roadmap`** and the public title is *
 
 ## Current visual status
 
-This repository is in a **pre-image-integration** state for v0.1.0.
+The seven PNGs currently checked into `src/img/` are the **accepted final visual set for v0.1.0** and are consumed by `README.md`.
 
-The seven PNGs currently checked into `src/img/` are temporary placeholders from the prior visual-remediation pass. They remain in place so the README keeps its visual rhythm while the final production set is created, reviewed, and approved.
+This repository does not assert the current PNGs' production provider, model, generation method, prompt, seed, generation date, or production workflow.
 
-The final production diagrams will use an **AI-assisted image-generation workflow under human direction, curation, and review**. The current placeholder PNGs are **not** claimed to have been created with OpenAI image generation.
-
-No roadmap structure, source corpus, source SHA, source license, citation model, or FDE claim is changed by this visual-production transition.
+No roadmap structure, source corpus, source SHA, source license, citation model, or FDE claim is changed by this final visual-asset freeze.
 
 ## Visual-family reference
 
@@ -136,47 +134,11 @@ Rules:
 
 Avoid decorative loops, ambiguous arrows, and visual motion that does not explain the model.
 
-## Visual production workflow
+## Visual provenance boundary
 
-The final production diagrams for v0.1.0 will be created using **OpenAI image generation under human direction**.
+The seven checked-in PNGs are the accepted final visual artifacts for v0.1.0. Their production provider and production method are not asserted here.
 
-The workflow is:
-
-1. define the diagram's technical meaning;
-2. map the concepts against the cited source corpus;
-3. define the visual hierarchy and composition;
-4. apply the shared technical visual direction;
-5. generate candidate imagery;
-6. review candidates for conceptual correctness;
-7. reject misleading, decorative, or unsupported output;
-8. refine the selected visual;
-9. verify labels, hierarchy, legibility, and provenance;
-10. integrate the approved final PNG into the repository.
-
-AI generation is used as a **visual production tool**. It is **not a conceptual source** for Forward Deployed Engineering claims.
-
-### Human direction and curation
-
-Human direction and curation cover:
-
-- roadmap synthesis;
-- primary-source selection;
-- conceptual structure;
-- diagram intent;
-- content validation;
-- visual direction;
-- final selection;
-- final review and repository integration.
-
-### AI assistance
-
-AI assistance covers:
-
-- visual generation;
-- visual iteration;
-- layout exploration where applicable.
-
-OpenAI is not described as an author or co-author of the roadmap, and no endorsement by OpenAI is implied.
+The conceptual claims represented in the diagrams remain traceable to the primary source corpus. Visual presentation does not make any production provider a conceptual source and does not imply provider endorsement.
 
 ## Diagram specifications and target rationale
 

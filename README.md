@@ -309,7 +309,7 @@ The goal is not maximal complexity. The goal is **credible evidence of end-to-en
 | [Role comparison](src/img/fde-role-comparison.png) | Qualitative comparison with neighboring roles; no numerical scoring. |
 | [Decision axes](src/img/fde-core-tradeoffs.png) | Frames recurring tensions without implying a measured or universally correct operating point. |
 
-The seven diagrams currently checked in are temporary placeholders from the prior visual pass and are not claimed to be AI-generated. The planned final production workflow uses OpenAI image generation under human direction, curation, and review; OpenAI is a visual-production tool, not a conceptual source for the FDE claims represented here.
+The seven diagrams currently checked in under `src/img/` are the accepted final visual set for v0.1.0. Their production provider and production method are not asserted by this repository; conceptual FDE claims remain attributed to the primary source corpus.
 
 ## How to Use This Repo
 
@@ -347,4 +347,4 @@ Canonical repository: <https://github.com/HubertRonald/fde-roadmap>
 
 Designed, curated, and built with ♥ and AI assistance by [Hubert Ronald](https://hubertronald.dev/).
 
-The currently checked-in visual diagrams remain temporary placeholders from the prior visual pass. The planned final visual-production workflow uses OpenAI image generation under human direction, curation, and review.
+The seven currently checked-in visual diagrams are the accepted final visual set for v0.1.0.

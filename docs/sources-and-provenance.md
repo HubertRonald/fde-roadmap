@@ -15,8 +15,8 @@ The intellectual boundary is deliberate:
 - **Original presentation** — prose, editorial organization, diagram
   concepts, human-directed visual composition, annotations, and final
   curated visual artifacts are specific to this project where not
-  otherwise attributed. No claim is made to exclusive authorship of
-  raw AI-generated material.
+  otherwise attributed. No claim is made to ownership of underlying
+  source concepts.
 
 
 ## Primary Source Corpus

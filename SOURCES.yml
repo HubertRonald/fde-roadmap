@@ -11,20 +11,20 @@ project:
 provenance_model:
   source_corpus: "Ideas, topic coverage, role framing, and learning themes drawn from the primary references."
   editorial_synthesis: "How this guide reconciles, qualifies, and reorganizes source themes into a vendor-neutral field guide."
-  original_presentation: "Prose, editorial organization, diagram concepts, human-directed visual composition, annotations, and final curated visual artifacts specific to this guide where not otherwise attributed; no exclusive authorship claim is made over raw AI-generated material."
+  original_presentation: "Prose, editorial organization, diagram concepts, human-directed visual composition, annotations, and final curated visual artifacts specific to this guide where not otherwise attributed; no ownership claim is made over underlying source concepts."
 
 
-visual_production:
-  status: transition_pending_final_image_integration
-  method: ai_assisted_image_generation
-  provider: OpenAI
-  human_direction: Hubert Ronald
+visual_assets:
+  status: accepted_final_v0_1_0
+  directory: src/img
+  count: 7
+  production_provider_asserted: false
+  production_method_asserted: false
   conceptual_sources:
     - R
     - T
     - A
-  current_asset_status: temporary_placeholders_from_prior_visual_pass
-  note: "OpenAI is used as a visual-production tool only. It is not part of the FDE primary source corpus and does not supply the conceptual claims represented in the diagrams."
+  note: "The seven checked-in PNGs are the accepted final visual set for v0.1.0. Their production provider and production method are not asserted; conceptual FDE claims remain attributed to the primary source corpus."
 
 primary_sources:
   - id: R
@@ -77,4 +77,4 @@ project_license:
     - linked_website_content
     - trademarks_and_external_assets
     - underlying_ideas_and_concepts_as_property_claims
-  note: "Source concepts are attributed to the primary references. The project license covers applicable rights in original project expression and final curated visual presentation, and does not relicense the source corpus or claim exclusive authorship of raw AI-generated material."
+  note: "Source concepts are attributed to the primary references. The project license covers applicable rights in original project expression and final curated visual presentation, and does not relicense the source corpus or claim ownership of underlying source concepts."

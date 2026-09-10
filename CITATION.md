@@ -66,7 +66,7 @@ The following are treated as project-specific expression where not otherwise att
 - editorial annotations and explanatory captions;
 - final curated visual artifacts, to the extent copyright or other applicable rights exist.
 
-This category describes the **expression, direction, curation, and presentation**, not ownership of general FDE concepts or exclusive authorship of raw AI-generated material.
+This category describes the **expression, direction, curation, and presentation**, not ownership of general FDE concepts or exclusive authorship of underlying source concepts.
 
 ### Synthesized concepts
 
@@ -92,13 +92,13 @@ External links, repository content, trademarks, quotations, code, and other thir
 
 ## Visual attribution
 
-Each final production diagram is expected to carry a compact provenance footer identifying the primary corpus. The footer credits conceptual source material without implying that any one visual is a copied diagram.
+The accepted final diagrams use a compact provenance model identifying the primary corpus. That attribution credits conceptual source material without implying that any one visual is a copied diagram.
 
-The final production visual set for v0.1.0 is transitioning to **OpenAI image generation under human direction, curation, and review**. The seven PNGs currently checked in are temporary placeholders from the prior visual pass and are not claimed to be AI-generated.
+The seven PNGs currently checked in under `src/img/` are the accepted final visual set for v0.1.0. Their production provider and production method are not asserted by this repository.
 
-Human direction and curation cover the roadmap synthesis, source selection, conceptual structure, diagram intent, content validation, visual direction, final selection, and review. AI assistance is used for visual generation, visual iteration, and layout exploration where applicable.
+Roadmap synthesis, source selection, conceptual structure, diagram intent, and content validation remain part of the repository's editorial synthesis and presentation layer.
 
-**OpenAI is a visual-production tool in this workflow. It is not a conceptual source for the FDE claims represented in the diagrams, is not listed in the primary source corpus, and does not endorse this roadmap.**
+**Visual-production provenance is kept separate from conceptual source provenance. The primary source corpus remains the source of the FDE concepts represented in the diagrams, and no visual-production provider endorsement is implied.**
 
 ## Independence statement
 
